@@ -6,4 +6,4 @@ type: ''
 
 ---
 
-[@maosboo](http://www.twitter.com/maosboo) I am a professor. 
+I am a professor. [@maosboo](http://www.twitter.com/maosboo).
