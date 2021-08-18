@@ -6,6 +6,6 @@ author: maosboo
 hero: "/images/511c1117-8d52-44c1-8662-a1faf3135111.jpeg"
 
 ---
-They say that the witch lives in the outdoor pool, but I know better—she lives in its shadows, powers waxing with the season. Today, all concrete edges glint in the sharp summer sun, water shining. Too late, I see my brother swim through the diving board's shadow. He climbs out.
+_Photo by_ [_Anna Sullivan_](https://unsplash.com/@aesullivan2010?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) _on_ [_Unsplash_](https://unsplash.com/s/photos/outdoor-swimming-pool?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_._
 
-Photo by [Anna Sullivan](https://unsplash.com/@aesullivan2010?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/outdoor-swimming-pool?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+They say that the witch lives in the outdoor pool, but I know better—she lives in its shadows, powers waxing with the season. Today, all concrete edges glint in the sharp summer sun, water shining. Too late, I see my brother swim through the diving board's shadow. He climbs out.
