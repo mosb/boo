@@ -12,9 +12,9 @@ Too late, I see my younger brother swim through the diving board's shadow. He cl
 
 My brother never spoke much. Now he doesn't speak at all. A phase, mum and dad say.
 
-Mid-winter, I return to the pool, through a gap in the fence. The shadows are dim, blurred; the cold pool empty. Except for my brother. He is in the water, naked. I walk out on the diving board, shivering. He does not look at me.
+Mid-winter, I return to the pool, through a gap in the fence. The shadows are dim, blurred, the cold pool empty. Except for my brother. He is in the water, naked. I walk out on the diving board, shivering. He does not look at me.
 
-I wait for the weak sun to peak. Then he speaks. After we get home, he starts speaking again, and everyone says that they are glad that the phase seems to be over. But no-one says anything about my brother now speaking with the voice of the witch.
+I wait for the weak sun to peak. Then he speaks. After we get home, he starts speaking again; everyone says that they are glad that the phase seems to be over. But no-one says anything about my brother now speaking with the voice of the witch.
 
 ***
 
