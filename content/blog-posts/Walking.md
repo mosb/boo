@@ -6,15 +6,17 @@ author: maosboo
 hero: "/images/1ae535f0-19f7-4e2d-b64c-a269a103cbe6.jpeg"
 
 ---
-They say that the witch lives in the outdoor pool. I know better—she lives in its shadows, powers waxing with the season. Today, all concrete edges glint in the sharp summer sun, water shining.
+Some say that the outdoor pool is home to a witch. I know better—she lives in the pool's shadows, powers waxing with the season. 
 
-Too late, I see my younger brother swim through the diving board's shadow. He climbs out, beaded, still gripped by shadow. The summer passes. But he is changed.
+Today, the water shines, the pool's concrete edges glinting in the sharp summer sun. Too late, I see my younger brother swim through the diving board’s shadow. He climbs out, beaded, still gripped by shadow. The summer passes. But he is different.
 
-My brother never spoke much. Now he doesn't speak at all. A phase, mum and dad say.
+My brother never spoke much. Now he doesn’t speak at all. Mum worries. Dad says that it is a phase.
 
-Mid-winter, I return to the pool, through a gap in the fence. The shadows are dim, blurred, the cold pool empty. Except for my brother. He is in the water, naked. I walk out on the diving board, shivering. He does not look at me.
+Mid-winter, I return to the pool, through a gap in the fence. The shadows are dim, blurred, the cold pool empty. Except for my brother. He is in the water, naked. I climb up on the diving board, shivering. He does not look at me.
 
-I wait for the weak sun to peak. Then he speaks. After we get home, he starts speaking again; everyone says that they are glad that the phase seems to be over. But no-one says anything about my brother now speaking with the voice of the witch.
+I wait for the weak sun to peak. Then I stand, spreading my arms, so my shadow falls on my brother. He speaks. After we get home, he speaks some more, and then some more. Everyone says that they are glad that the phase is over. 
+
+But no-one says anything about my brother now speaking with the voice of the witch.
 
 ***
 
