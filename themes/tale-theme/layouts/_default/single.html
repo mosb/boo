@@ -29,13 +29,9 @@
 				{{- end }}
 		</div>
 		<div class="post__footer">
-			share:
-			<a href="https://twitter.com/intent/tweet?url={{ .Permalink }}&amp;text={{ .Title }}" target="_blank" rel="noopener" aria-label="Share on Twitter">
-		      tweet
-			</a>
-			<a href="mailto:?subject={{ .Site.Title }} - {{ $title }}.&amp;body={{ $body }}" target="_blank">
-	          email
-	        </a>
+			{{- if .Params.photographer }}
+				Photo by <a href=".Params.photographer_url">.Params.photographer</a>
+			{{- end }}
 		</div>
 	</div>
 </main>
