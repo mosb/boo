@@ -9,6 +9,9 @@
 		</div>
 		<div class="post__body">{{ .Content }}</div>
 		<div class="post__footer">
+				<a href="https://twitter.com/intent/tweet?url={{ .Permalink }}&amp;text={{ .Title }}" target="_blank" rel="noopener" aria-label="Share on Twitter" class="share-btn twitter">
+			      {{ partial "svg/twitter.svg" (dict "class" "widget-social__link-icon") }}
+				</a>
 				{{- if .Params.Author }}
 					<h2>
 						<span>{{ i18n "writtenBy" }}:</span>
@@ -24,7 +27,6 @@
 				{{- end }}
 		</div>
 	</div>
-	{{ partial "socialshare.html" . }}
 </main>
 
 {{ end }}
