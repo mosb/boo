@@ -18,15 +18,7 @@ I wait for the sun to peak. Then I stand, spreading my arms, so that it is now m
 
 But no-one says anything about my brother now speaking with the voice of the witch.
 
-<a href="[https://twitter.com/intent/tweet/?text=](https://twitter.com/intent/tweet/?text= "https://twitter.com/intent/tweet/?text="){{ .Title }}&amp;url={{ .Permalink }}&via=stephenajulu&amp;hashtags={{ .Params.tags }}" target="_blank" title="Tweet on Twitter" style="display:inline-block;vertical-align:middle;width:2em;height:2em;border-radius:50%;box-shadow:.1em .1em 0.5em rgba(0,0,0,.3);background:#1b95e0;">
-
-        <svg style="display:block;fill:#fff;height:36%;margin:32% auto;" viewBox="0 -256 1576 1280">
-
-            <path transform="matrix(1,0,0,-1,-44,1024)" d="m 1620,1128 q -67,-98 -162,-167 1,-14 1,-42 0,-130 -38,-259.5 Q 1383,530 1305.5,411 1228,292 1121,200.5 1014,109 863,54.5 712,0 540,0 269,0 44,145 q 35,-4 78,-4 225,0 401,138 -105,2 -188,64.5 -83,62.5 -114,159.5 33,-5 61,-5 43,0 85,11 Q 255,532 181.5,620.5 108,709 108,826 v 4 q 68,-38 146,-41 -66,44 -105,115 -39,71 -39,154 0,88 44,163 Q 275,1072 448.5,982.5 622,893 820,883 q -8,38 -8,74 0,134 94.5,228.5 94.5,94.5 228.5,94.5 140,0 236,-102 109,21 205,78 -37,-115 -142,-178 93,10 186,50 z" />
-
-        </svg>
-
-    </a>
+<a href="https://twitter.com/intent/tweet/?text={{ .Title }}&url={{ .Permalink }}&via=stephenajulu&hashtags={{ .Params.tags }}" target="_blank" title="Tweet on Twitter" style="display:inline-block;vertical-align:middle;width:2em;height:2em;border-radius:50%;box-shadow:.1em .1em 0.5em rgba(0,0,0,.3);background:#1b95e0;">
 
 ***
 
