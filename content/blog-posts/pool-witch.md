@@ -17,7 +17,3 @@ Mid-winter, I return to the pool, through a gap in the fence. The shadows are di
 I wait for the sun to peak. Then I stand, spreading my arms, so that it is now my shadow over my brother. He speaks. After we get home, he speaks some more, and then some more. Everyone says that they are glad that the phase is over.
 
 But no-one says anything about my brother now speaking with the voice of the witch.
-
-***
-
-_Photo by_ [_Anna Sullivan_](https://unsplash.com/@aesullivan2010?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) _on_ [_Unsplash_](https://unsplash.com/s/photos/outdoor-swimming-pool?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

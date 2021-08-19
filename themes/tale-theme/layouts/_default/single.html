@@ -12,14 +12,8 @@
 			{{ partial "single/post-info.html" . }}
 		</div>
 		<div class="post__body">{{ .Content }}</div>
-		<hr>
+
 		<div class="post__footer">
-				<a href="https://twitter.com/intent/tweet?url={{ .Permalink }}&amp;text={{ .Title }}" target="_blank" rel="noopener" aria-label="Share on Twitter">
-			      tweet
-				</a>
-				<a href="mailto:?subject={{ .Site.Title }} - {{ $title }}.&amp;body={{ $body }}" target="_blank">
-		          email
-		        </a>
 				{{- if .Params.Author }}
 					<h2>
 						<span>{{ i18n "writtenBy" }}:</span>
@@ -33,6 +27,15 @@
 						</svg>
 					</a>
 				{{- end }}
+		</div>
+		<div class="post__footer">
+			share:
+			<a href="https://twitter.com/intent/tweet?url={{ .Permalink }}&amp;text={{ .Title }}" target="_blank" rel="noopener" aria-label="Share on Twitter">
+		      tweet
+			</a>
+			<a href="mailto:?subject={{ .Site.Title }} - {{ $title }}.&amp;body={{ $body }}" target="_blank">
+	          email
+	        </a>
 		</div>
 	</div>
 </main>
