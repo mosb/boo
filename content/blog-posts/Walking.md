@@ -14,7 +14,7 @@ My brother never spoke much. Now he doesn’t speak at all. Mum worries. Dad say
 
 Mid-winter, I return to the pool, through a gap in the fence. The shadows are dim, blurred, the cold pool empty. Except for my brother. He is in the water, naked. I climb up on the diving board, shivering. He does not look at me.
 
-I wait for the sun to peak. Then I stand, spreading my arms, so it is now my shadow over my brother. He speaks. After we get home, he speaks some more, and then some more. Everyone says that they are glad that the phase is over. 
+I wait for the sun to peak. Then I stand, spreading my arms, so that it is now my shadow over my brother. He speaks. After we get home, he speaks some more, and then some more. Everyone says that they are glad that the phase is over. 
 
 But no-one says anything about my brother now speaking with the voice of the witch.
 
