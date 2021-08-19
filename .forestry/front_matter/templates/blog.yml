@@ -30,10 +30,15 @@ fields:
 - type: file
   name: hero
   label: Hero Image
-- name: photo_credit
+- name: photographer
   type: text
   config:
     required: false
-  label: Photo credit
+  label: Photographer
+- name: photographer_url
+  type: text
+  config:
+    required: false
+  label: photographer_url
 pages:
 - content/blog-posts/pool-witch.md
