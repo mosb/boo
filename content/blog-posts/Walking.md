@@ -20,4 +20,6 @@ But no-one says anything about my brother now speaking with the voice of the wit
 
 ***
 
+![](/images/1ae535f0-19f7-4e2d-b64c-a269a103cbe6.jpeg)
+
 _Photo by_ [_Anna Sullivan_](https://unsplash.com/@aesullivan2010?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) _on_ [_Unsplash_](https://unsplash.com/s/photos/outdoor-swimming-pool?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
