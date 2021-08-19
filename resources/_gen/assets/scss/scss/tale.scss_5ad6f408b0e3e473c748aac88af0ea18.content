@@ -1,5 +1,6 @@
 /* Reset provided by https://github.com/gatsbyjs/gatsby-starter-blog via MIT license */
 @import url("https://fonts.googleapis.com/css?family=Work+Sans&display=swap");
+@import url("https://use.typekit.net/gyy1jod.css");
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -624,19 +625,22 @@ html,
 body {
   margin: 0;
   padding: 0;
-  font-family: "Work Sans","Helvetica Neue", Helvetica, sans-serif;
-  font-size: 16px;
+  font-family: "rosario","Work Sans","Helvetica Neue", Helvetica, sans-serif;
+  font-size: 18px;
   overflow-x: hidden;
   color: #000; }
 
 body {
   -webkit-text-size-adjust: 100%; }
 
-h1, h2, h3, h4, h5, h6, p {
-  font-family: "Work Sans","Helvetica Neue", Helvetica, sans-serif; }
+h1, h2, h3, h4, h5, h6 {
+  font-family: "fira-sans","Work Sans","Helvetica Neue", Helvetica, sans-serif; }
+
+p {
+  font-family: "rosario","Work Sans","Helvetica Neue", Helvetica, sans-serif; }
 
 h1, h2 {
-  font-weight: 500; }
+  font-weight: 600; }
 
 h1 {
   font-size: 2rem;
@@ -692,6 +696,129 @@ a:hover {
 ul {
   list-style: none;
   margin: 0; }
+
+.social-share {
+  position: relative;
+  top: -0.5em; }
+
+.social-share ul {
+  margin: 0; }
+
+.social-share ul li p {
+  display: none; }
+
+.social-share .share-icons li {
+  padding: 0 !important;
+  padding-bottom: 10px !important; }
+
+.social-share .share-btn {
+  padding: 0.25em;
+  width: 3em; }
+
+.social-share-nav .share-btn h3 {
+  color: #ffffff; }
+
+ul.share-icons {
+  cursor: default;
+  list-style: none;
+  padding-left: 0;
+  margin-top: 1em; }
+
+ul.share-icons li {
+  display: inline-block;
+  padding: 0 1em 0 0; }
+
+ul.share-icons li:last-child {
+  padding-right: 0; }
+
+ul.share-icons li > * {
+  text-decoration: none;
+  border: 0; }
+
+ul.share-icons li > *:before {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  text-transform: none !important; }
+
+ul.share-icons li > * .label {
+  display: none; }
+
+.share-btn {
+  display: inline-block;
+  color: #ffffff;
+  border: none;
+  border-radius: 4px;
+  box-shadow: 0 2px 0 0 rgba(0, 0, 0, 0.2);
+  outline: none;
+  text-align: center;
+  text-decoration: none; }
+
+.share-btn:hover {
+  color: #ffffff !important; }
+
+.share-btn:active {
+  position: relative;
+  top: 2px;
+  box-shadow: none;
+  color: #e2e2e2;
+  outline: none; }
+
+.share-btn .widget-social__link-icon {
+  margin: 0; }
+
+.share-btn.twitter {
+  background: #55acee; }
+
+.share-btn.google-plus {
+  background: #dd4b39; }
+
+.share-btn.facebook {
+  background: #3B5998; }
+
+.share-btn.linkedin {
+  background: #4875B4; }
+
+.share-btn.stumbleupon {
+  background: #EB4823; }
+
+.share-btn.pinterest {
+  background: #BD081C; }
+
+.share-btn.reddit {
+  background: #ff5700; }
+
+.share-btn.email {
+  background: #444444; }
+
+.share-btn.whatsapp {
+  background: #25d366; }
+
+.share-btn.twitter:hover {
+  background: #4c9ad6; }
+
+.share-btn.google-plus:hover {
+  background: #c64333; }
+
+.share-btn.facebook:hover {
+  background: #2f4779; }
+
+.share-btn.linkedin:hover {
+  background: #4069a2; }
+
+.share-btn.stumbleupon:hover {
+  background: #d3401f; }
+
+.share-btn.pinterest:hover {
+  background: #AD0000; }
+
+.share-btn.reddit:hover {
+  background: #e54e00; }
+
+.share-btn.email:hover {
+  background: #363636; }
 
 pre,
 code {
