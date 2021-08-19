@@ -18,8 +18,6 @@ I wait for the sun to peak. Then I stand, spreading my arms, so that it is now m
 
 But no-one says anything about my brother now speaking with the voice of the witch.
 
-<a href="https://twitter.com/intent/tweet/?text={{ .Title }}&url={{ .Permalink }}&via=stephenajulu&hashtags={{ .Params.tags }}" target="_blank" title="Tweet on Twitter" style="display:inline-block;vertical-align:middle;width:2em;height:2em;border-radius:50%;box-shadow:.1em .1em 0.5em rgba(0,0,0,.3);background:#1b95e0;">
-
 ***
 
 _Photo by_ [_Anna Sullivan_](https://unsplash.com/@aesullivan2010?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) _on_ [_Unsplash_](https://unsplash.com/s/photos/outdoor-swimming-pool?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
