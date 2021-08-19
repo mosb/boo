@@ -6,5 +6,4 @@ draft: false
 author: "maosboo"
 hero: "https://source.unsplash.com/random"
 default: {{ .Date }}
-socialshare: true
 ---
