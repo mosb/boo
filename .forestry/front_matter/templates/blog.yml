@@ -39,6 +39,6 @@ fields:
   type: text
   config:
     required: false
-  label: photographer_url
+  label: Photographer_url
 pages:
 - content/blog-posts/pool-witch.md
