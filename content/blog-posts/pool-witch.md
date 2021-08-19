@@ -1,9 +1,11 @@
 ---
 title: The Pool Witch
-date: 2021-08-17T23:00:00+00:00
+date: 2021-08-17T23:00:00.000+00:00
 type: blog
 author: maosboo
 hero: "/images/1ae535f0-19f7-4e2d-b64c-a269a103cbe6.jpeg"
+photo_credit: Photo by [Anna Sullivan](https://unsplash.com/@aesullivan2010?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  _on_ [_Unsplash_](https://unsplash.com/s/photos/outdoor-swimming-pool?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ---
 Some say that the outdoor pool is home to a witch. I know better—she lives in the pool's shadows, powers waxing with the season.
