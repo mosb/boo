@@ -16,8 +16,8 @@ Setting the table with snacks, Max and I speak. Their 7YO Felix is refusing scho
 
 2YO is on the floor of Felix's bedroom, face down on the carpet, screaming, still screaming when in my arms, 5YO screams to come up, too, I clutch both. In the cluttered bedroom, on the walls, bed, lowered blackout blinds, all surfaces, mostly drawn in chalk, are eyes, all types.
 
-Who drew all these? I ask.
+I ask, who drew all these?
 
-It changes, Felix says.
+Felix says, it changes.
 
 He turns around, and, on the back of his neck, another eye, still bloody, dripping. I wonder about all the dark houses on the street, wonder if there are eyes on them, too.
