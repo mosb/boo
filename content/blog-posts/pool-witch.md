@@ -1,5 +1,5 @@
 ---
-title: The Pool Witch
+title: The pool witch
 date: 2021-08-17T23:00:00.000+00:00
 type: blog
 author: maosboo
