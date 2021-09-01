@@ -43,6 +43,7 @@ fields:
 pages:
 - content/blog-posts/blackout.md
 - content/blog-posts/mirrorsucker.md
+- content/blog-posts/pair-programming.md
 - content/blog-posts/pool-witch.md
 - content/blog-posts/the-play-date.md
 - content/blog-posts/the-whistling-tree.md
