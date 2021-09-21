@@ -5,5 +5,4 @@ background_color: "#B4CEC8"
 type: ''
 
 ---
-
-I am a professor. [@maosboo](http://www.twitter.com/maosboo).
+your dreams. [@maosboo](http://www.twitter.com/maosboo).
