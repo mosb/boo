@@ -8,4 +8,4 @@ title = "Pair programming"
 type = "blog"
 
 +++
-It's late and quiet. I sit at my keyboard, coding. My pair-programming observer sits beside me, but I can't look at him directly. His shadow is tall. His voice is the rattle and churr of a wren, but I understand it. He speaks such good sense.
+It is late and quiet. I sit at my keyboard, coding. My pair-programming observer sits beside me, but I cannot look at him directly. His shadow is tall. His voice is the rattle and churr of a wren, but I understand it. He speaks such good sense.
