@@ -43,6 +43,7 @@ fields:
 pages:
 - content/blog-posts/a-child-too-long-unattended.md
 - content/blog-posts/blackout.md
+- content/blog-posts/code-review.md
 - content/blog-posts/mirrorsucker.md
 - content/blog-posts/pair-programming.md
 - content/blog-posts/pool-witch.md
