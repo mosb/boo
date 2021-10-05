@@ -41,6 +41,7 @@ fields:
     required: false
   label: Photographer_url
 pages:
+- content/blog-posts/a-child-too-long-unattended.md
 - content/blog-posts/blackout.md
 - content/blog-posts/mirrorsucker.md
 - content/blog-posts/pair-programming.md
