@@ -4,7 +4,7 @@ date = 2021-09-15T23:00:00Z
 hero = "/images/5889f00b-f4b1-47c4-91a8-a831c66eeaee.jpeg"
 photographer = "Call Me Fred"
 photographer_url = "https://unsplash.com/@callmefred?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
-title = "The Old Well"
+title = "The old well"
 type = "blog"
 
 +++
