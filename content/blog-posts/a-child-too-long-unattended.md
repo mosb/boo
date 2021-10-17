@@ -8,4 +8,4 @@ title = "A child too long unattended"
 type = "blog"
 
 +++
-Clutching his shovel, 5YO is using his body to block my view of his sandpit. What are you hiding? I ask, approaching closer to look over his shoulder. God, 5YO says, and I see a hole, impossibly deep, bottom only of stars.
+Clutching his shovel, 5YO is using his body to block my view of his sandpit. What are you hiding? I ask, approaching closer to look over his shoulder. God, 5YO says, and I see a hole, that has no depth, floor only of stars.
