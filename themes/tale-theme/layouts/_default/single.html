@@ -16,10 +16,10 @@
 
 		<div class="post__footer">
 				{{- if .Params.Author }}
-					<!-- <h2> -->
+					<b>
 						<span>{{ i18n "writtenBy" }}:</span>
 								{{ .Params.Author }}
-					<!-- </h2> -->
+					</b>
 				{{- end }}
 				{{- if .PrevPage }}
 					<a class="pagination" href="{{ .PrevPage.RelPermalink }}" class="left arrow">
