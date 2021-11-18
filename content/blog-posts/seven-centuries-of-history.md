@@ -4,7 +4,7 @@ date = 2021-11-18T00:00:00Z
 hero = "/images/ca1257c4-6d28-4fca-a865-d7863ff7cbce.jpeg"
 photographer = "marra"
 photographer_url = "https://unsplash.com/@marra_xo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
-title = "Seven centuries of history"
+title = "Seven centuries of tradition"
 type = "blog"
 
 +++
